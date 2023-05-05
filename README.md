@@ -89,6 +89,7 @@ Box-Cox transformation is a method used to transform non-normal dependent variab
 
 ![image](https://user-images.githubusercontent.com/53809748/236432825-085fb1e3-67e7-4d0b-87f3-27f249f88054.png)
 </div>
+
 ## Model Trained on the Dataset
 
 - Random Forest
