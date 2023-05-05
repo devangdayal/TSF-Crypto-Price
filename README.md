@@ -1,4 +1,4 @@
-# Time Series Forecasting for Cryptocurrency Asset using Long Short Term Memory with Attention Mechanism
+# SUPERVISED DEEP LEARNING APPROACH FOR TIME SERIES FORECASTING ON CRYPTOCURRENCY ASSET PRICES
 
 ## DEVELOPMENT FLOW AND PHASES OF IMPLEMENTATION
 
