@@ -37,20 +37,26 @@ From the Correlation plot shown below, we can see correlation between the attrib
 We will use the Closing Price and Candlestick graph as shown in Figure below to capture the trends of the crypto currency. We can see there is tremendous price increase for BTC, ETH, and ADA in 2021, which implies they are all good investment.
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/53809748/236431556-dafffd2a-0655-4e5c-80be-f034587700c2.png)
+  
 </div>
 
 As we can see in figure below ETH, and BTC residual returns are relatively stable compared to ADA. This might be a good implication that if the investor would take short time trading opportunities, ADA is a better choice. If the investor is risk averse, BTC or ETH will be a better fit.
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/53809748/236431685-dd7d9ca1-0610-4fc7-81bb-4ebad8d18d54.png)
+  
 </div>
 
 
 ### Scatter Plot for the Attributes
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/53809748/236431804-33237a17-fa53-4d77-8ff6-960350ab841e.png)
+  
 </div>
 
 ### Candlestick Chart
@@ -68,8 +74,11 @@ Candlestick charts are a type of financial chart used to represent price movemen
 Seasonal decomposition is a method to break down a time series into its trend, seasonal and residual components. This method helps in understanding the underlying patterns and structures of the time series, which is useful for forecasting and decision-making.
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/53809748/236432581-5d6be998-e9dc-4a10-98d4-cdd660354d86.png)
+  
 ![image](https://user-images.githubusercontent.com/53809748/236432628-0cf619cf-8016-470e-9333-b2b062109c6a.png)
+  
 </div>
 
 ### Box-Cox Transformation
